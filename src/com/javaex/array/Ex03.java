@@ -6,7 +6,7 @@ public class Ex03 {
 		char c[] = {'T','h','i','s',' ','i','s',' ','a',' ','p','e','n','c','i','l'};
 		String a = "";
 		String b = "";
-		
+		 
 		for(int i=0; i<c.length; i++)
 		{
 			a += String.valueOf(c[i]);

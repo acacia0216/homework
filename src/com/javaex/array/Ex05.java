@@ -5,7 +5,7 @@ public class Ex05 {//45까지 로또
 		
 		int n = 6;
 		int num[] = new int[n];
-		
+		 
 		for(int i=0; i<n; i++)
 			{
 				num[i] = (int)(Math.random()*45)+1;
